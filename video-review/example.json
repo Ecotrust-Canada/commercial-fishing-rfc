@@ -1,0 +1,22 @@
+{
+  "schema": "https://github.com/Ecotrust-Canada/commercial-fishing-rfc/edit/master/video-review/schema.json",
+  "version": "0.1",
+  
+  "num_hauls_observed": 3,
+  "num_hauls_trip": 13,
+  
+  "hauls": [
+  
+    {
+      "notes": "",
+      "amount": 5,
+      "weight": 102,
+      "units": "LBS",
+      "species": "HAD",
+      "location": {
+        "lat": 45.22,
+        "lng": -66.324
+      }
+    }
+  ]
+}
