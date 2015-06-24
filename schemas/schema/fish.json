@@ -2,6 +2,7 @@
   "$schema": "http://json-schema.org/draft-04/schema#",
   "id": "http://jsonschema.net",
   "type": "object",
+  "example": "https://raw.githubusercontent.com/Ecotrust-Canada/commercial-fishing-rfc/master/video-review/example.json",
   "properties": {
     "num_hauls_observed": {
       "id": "http://jsonschema.net/num_hauls_observed",
