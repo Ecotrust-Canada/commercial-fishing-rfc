@@ -99,42 +99,6 @@
                     "type": "integer"
                   }
                 }
-              },
-              {
-                "id": "http://jsonschema.net/hauls/0/catch/1",
-                "type": "object",
-                "properties": {
-                  "species": {
-                    "id": "http://jsonschema.net/hauls/0/catch/1/species",
-                    "type": "string"
-                  },
-                  "count_discarded": {
-                    "id": "http://jsonschema.net/hauls/0/catch/1/count_discarded",
-                    "type": "integer"
-                  },
-                  "pounds_discarded": {
-                    "id": "http://jsonschema.net/hauls/0/catch/1/pounds_discarded",
-                    "type": "integer"
-                  }
-                }
-              },
-              {
-                "id": "http://jsonschema.net/hauls/0/catch/2",
-                "type": "object",
-                "properties": {
-                  "species": {
-                    "id": "http://jsonschema.net/hauls/0/catch/2/species",
-                    "type": "string"
-                  },
-                  "count_discarded": {
-                    "id": "http://jsonschema.net/hauls/0/catch/2/count_discarded",
-                    "type": "integer"
-                  },
-                  "pounds_discarded": {
-                    "id": "http://jsonschema.net/hauls/0/catch/2/pounds_discarded",
-                    "type": "integer"
-                  }
-                }
               }
             ]
           }
